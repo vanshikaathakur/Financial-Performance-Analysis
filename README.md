@@ -28,7 +28,7 @@ Bash
 
 git clone <repository_url>
 cd <repository_name>
-(Note: As this is a single file upload, replace with appropriate instructions if the user intends to share it as part of a larger project.)
+
 
 Create a virtual environment:
 
