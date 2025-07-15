@@ -1,3 +1,5 @@
+****Strategic Financial Modeling****
+
 Financial Performance Analysis Notebook 📊
 This repository contains a Jupyter Notebook (Financial Performance Analysis (1).ipynb) that performs an in-depth analysis of financial data. The notebook covers data loading, cleaning, preprocessing, exploratory data analysis (EDA), and potentially predictive modeling to understand and forecast financial performance.
 
